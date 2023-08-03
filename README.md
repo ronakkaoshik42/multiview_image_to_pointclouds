@@ -1,4 +1,4 @@
-# multiview_image_to_pointclouds
+# Multiview images to point clouds
 
 The dataset can be found here https://drive.google.com/drive/folders/1ngdIlWdYWMYGd5xcG6uHYDFXlSoQrqpt?usp=sharing
 (Too large for github)
