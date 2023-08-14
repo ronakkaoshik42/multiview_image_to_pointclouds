@@ -1,4 +1,4 @@
-# Multiview images to point clouds
+# Multiview images to point clouds (3DCV Course project)
 
 The dataset can be found here https://drive.google.com/drive/folders/1ngdIlWdYWMYGd5xcG6uHYDFXlSoQrqpt?usp=sharing
 (Too large for github)
